@@ -29,6 +29,6 @@ My primary language of choice is **Python**, but I love exploring the entire sta
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zack-Lee-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zack-Lee-99&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zack-Lee-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Panda-0x01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Panda-0x01theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-0x01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
