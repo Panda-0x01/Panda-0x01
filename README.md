@@ -1,4 +1,4 @@
-## Hey, I'm [Nikhare Drumil] 👋
+## Hey, I'm Nikhare Drumil 👋
 
 > Python developer & cybersecurity specialist — I build things that detect, defend, and scale.
 
