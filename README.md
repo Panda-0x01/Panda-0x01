@@ -63,7 +63,7 @@ I reply fast — email is best.
 
 - 📧 drumilnikhare29@gmail.com
 - 💼 [www.linkedin.com/in/drumilnikhare](www.linkedin.com/in/drumilnikhare)
-- 🌐 [https://panda-portfolio-two.vercel.app/](https://panda-portfolio-two.vercel.app/)
+- 🌐 [https://panda-portfolio-two.vercel.app](https://panda-portfolio-two.vercel.app)
 
 ---
 *If something I built helped you — a ⭐ goes a long way.*
